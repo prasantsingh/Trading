@@ -15,6 +15,7 @@ public:
 	int run_check;
 	CUGSortArrowType m_sortArrow;
 	CFont m_font;
+
 	
 protected:
 	void    gridFilter(int colno,int rows_count,CString col_value);	

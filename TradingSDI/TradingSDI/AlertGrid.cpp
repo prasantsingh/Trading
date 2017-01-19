@@ -1,13 +1,10 @@
 #include "stdafx.h"
 #include "resource.h"
 #include "AlertGrid.h"
-#include "document.h"
 #include <iostream>
 #include "Login.h"
 #include "OrderwiseJournal.h"
 
-using namespace std;
-using namespace rapidjson;
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

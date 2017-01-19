@@ -1,13 +1,10 @@
 #include "stdafx.h"
 #include "PosEntryAna.h"
-#include "document.h"
 #include <iostream>
 #include "Position_Entry_Analysis.h"
 #include "GridTradeAndOrder.h"
 #include "tab3.h"
 #include <fstream>
-using namespace std;
-using namespace rapidjson;
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #undef THIS_FILE

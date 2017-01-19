@@ -1,11 +1,9 @@
 #include "stdafx.h"
 #include "BalanceAnaGrid.h"
-#include "document.h"
 #include <iostream>
 #include "BalanceTableAnalysis.h"
 #include "GridTradeAndOrder.h"
-using namespace std;
-using namespace rapidjson;
+
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

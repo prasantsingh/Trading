@@ -5,12 +5,12 @@
 #include <time.h>
 #include <locale.h>
 #include <MainFrm.h>
-#include "document.h"
+'#include "document.h"
 #include <iostream>
 #include "CScripWiseNetPosTable.h"
 #include "Netpos_Get_Data.h"
 using namespace std;
-using namespace rapidjson;
+'using namespace rapidjson;
 #import "C:\Program Files\Common Files\System\ADO\msado15.dll" \
 no_namespace rename("EOF", "EndOfFile")
 

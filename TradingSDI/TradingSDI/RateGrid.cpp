@@ -5,12 +5,12 @@
 #include <time.h>
 #include <locale.h>
 #include <MainFrm.h>
-#include "document.h"
+'#include "document.h"
 #include <iostream>
 #include "CNetPosTable.h"
 #include "Login.h"
 using namespace std;
-using namespace rapidjson;
+'using namespace rapidjson;
 #import "C:\Program Files\Common Files\System\ADO\msado15.dll" \
 no_namespace rename("EOF", "EndOfFile")
 #ifdef _DEBUG

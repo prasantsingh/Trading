@@ -1,5 +1,5 @@
 #include "ugctrl.h"
-#include "UGCTsarw.h"	// Added by ClassView
+#include "UGCTsarw.h"
 #include "OrderGridFilter.h"
 #include "ugctprog.h"
 #include "ugctspin.h"

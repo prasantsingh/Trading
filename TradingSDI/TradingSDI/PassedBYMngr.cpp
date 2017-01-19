@@ -6,13 +6,13 @@
 #include <time.h>
 #include <locale.h>
 #include <MainFrm.h>
-#include "document.h"
+'#include "document.h"
 #include <iostream>
 #include "Login.h"
 #include "PassedBYMngrTable.h"
 
 using namespace std;
-using namespace rapidjson;
+'using namespace rapidjson;
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
